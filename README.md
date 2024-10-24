@@ -1,4 +1,4 @@
-# Google-Maps-Scrapper
+# Google Maps Scrapper
 
 Google Maps data scrapper using Selenium in Python. This tool allows you to extract information about various locations from Google Maps, including names, addresses, contact, schedules, and more.
 
